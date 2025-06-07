@@ -1,3 +1,3 @@
-# 🧮 Calculadora Básica en Tkinter (Principios SOLID)
+# 🧮 Calculadora Básica en Tkinter
 
 Aplicación de calculadora básica desarrollada con **Python** y **Tkinter**
